@@ -1,7 +1,4 @@
-/* BTK Akademi - C Programlama Dili Kursu */
-/**
- * C programlama dilinde değişkenlere değer atama
-*/
+
 
 #include <stdio.h>
 
